@@ -1,6 +1,6 @@
 body {
   display: flex;
-  min-height: 800px;
+  height: 100%;
   border: 8px solid #333333
 }
 
