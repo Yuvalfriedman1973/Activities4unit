@@ -1,1 +1,7 @@
+body {
+  display: flex;
+  border: 8px solid #333333
+}
 
+.box {
+  width: 400px;
