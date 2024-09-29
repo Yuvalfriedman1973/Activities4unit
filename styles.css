@@ -2,6 +2,7 @@ body {
   display: flex;
   height: 100%;
   border: 8px solid #333333
+  justify-content: space-around;
 }
 
 .box {
