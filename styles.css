@@ -1,6 +1,6 @@
 body {
   display: flex;
-  height: 100%;
+  min-height: 600px;
   border: 8px solid #333333
   justify-content: space-around;
 }
