@@ -1,9 +1,8 @@
 body {
-  display: flex;
+  display: grid;
+  grid-template-column: auto auto;
   min-height: 600px;
   border: 8px solid #333333
-  flex-direction: column;
-  justify-content: space-around;
 }
 
 .box {
