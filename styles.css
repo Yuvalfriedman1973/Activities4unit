@@ -1,6 +1,6 @@
 .container {
   display: grid;
-  grid-template-column: auto auto;
+  grid-template-column: 1fr 1fr;
 }
 
 .box {
