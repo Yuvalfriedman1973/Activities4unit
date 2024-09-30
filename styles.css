@@ -1,7 +1,8 @@
 body {
-  display: row;
+  display: flex;
   min-height: 600px;
   border: 8px solid #333333
+  flex-direction: collom;
   justify-content: space-around;
 }
 
