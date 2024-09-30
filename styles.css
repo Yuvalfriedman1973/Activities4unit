@@ -1,8 +1,6 @@
 .container {
   display: grid;
   grid-template-column: auto auto;
-  border: 8px solid #333333
-  grid-gap: 10px;
 }
 
 .box {
