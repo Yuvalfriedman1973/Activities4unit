@@ -2,7 +2,7 @@ body {
   display: flex;
   min-height: 600px;
   border: 8px solid #333333
-  flex-direction: collom;
+  flex-direction: column;
   justify-content: space-around;
 }
 
